@@ -202,4 +202,4 @@ bot.on("ready", () => {
   bot.user.setActivity(' о прозьбе помощи', { type: 'WATCHING' })
 });
 
-bot.login("ODcyNTUyOTc4MTczNzkyMzA3.YQriSQ.3ZEWqiSQ-e-xilCSdM9znpIr5zI");
+bot.login("Ваш токин бота");
